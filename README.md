@@ -122,7 +122,7 @@ The Power BI report is structured into multiple analytical layers:
 - Scope was controlled to prioritize **clarity and storytelling over feature overload**
 
 ---
-
+### This project prioritizes analytical reasoning, system design, and interpretability over production-scale optimization.
 ## ⚠️ Limitations
 - The pipeline is **not GPU-optimized** and currently runs on CPU-based inference, which results in longer execution times for large datasets.
 - The framework relies on **offline batch processing** of comments rather than real-time streaming ingestion.
