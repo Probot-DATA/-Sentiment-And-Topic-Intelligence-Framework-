@@ -1,0 +1,1 @@
+Note: This case study was developed using an earlier version of the sentiment analysis pipeline (v1). The current system has since been significantly expanded to support multi-source ingestion and hierarchical topic intelligence (global and local topics). The earlier implementation was iteratively improved and not preserved separately.
